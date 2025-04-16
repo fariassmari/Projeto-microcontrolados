@@ -27,6 +27,3 @@ O programa lê essa linha, extrai os ângulos, e atualiza a interface gráfica d
 - [pyserial](https://pypi.org/project/pyserial/)
 - [Math](https://docs.python.org/3/library/math.html)
 
-## ▶️ Como usar
-
-### 1. Clone o repositório
